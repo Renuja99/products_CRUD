@@ -1,0 +1,15 @@
+{
+    "name": "renuja/crud_mvc",
+    "authors": [
+        {
+            "name": "Renuja De Costa",
+            "email": "devmindadeco@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
